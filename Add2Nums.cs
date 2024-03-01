@@ -7,6 +7,7 @@ Console.Writeline("Enter a B Number");
 b= Convert.ToInt32(Console.ReadLine());
 c=a+b;
 c=Convert.ToInt32(Console.ReadLine());
-Console.WriteLine();
+Console.WriteLine($"Sum of two numbers is {0}",c);
+Console.ReadLine();
 
 }
