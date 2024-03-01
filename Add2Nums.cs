@@ -1,3 +1,5 @@
+public static void main(string[] args)
+{
 int a,b,c;
 Console.Writeline("Enter a A Number");
 a= Convert.ToInt32(Console.ReadLine());
@@ -6,3 +8,5 @@ b= Convert.ToInt32(Console.ReadLine());
 c=a+b;
 c=Convert.ToInt32(Console.ReadLine());
 Console.WriteLine();
+
+}
