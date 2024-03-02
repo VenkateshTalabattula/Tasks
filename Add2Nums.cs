@@ -1,3 +1,5 @@
+namespace Add2Nums
+{
 public static void main(string[] args)
 {
 int a,b,c;
@@ -10,4 +12,5 @@ c=Convert.ToInt32(Console.ReadLine());
 Console.WriteLine($"Sum of two numbers is {0}",c);
 
 
+}
 }
